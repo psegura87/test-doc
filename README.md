@@ -2,7 +2,7 @@
 
 ### Place 1
 
-Hello, this is some text to fill in this, [here](vm.scrollTo('place-4')), is a link to the second place.
+Hello, this is some text to fill in this, [here](vm.scrollTo('place-4'))), is a link to the second place.
 
 ### Place 2
 
