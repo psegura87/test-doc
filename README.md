@@ -1,4 +1,4 @@
-<h1 ng-click="vm.scrollTo('project-jump')" style="cursor:pointer>Projects</h1>
+<h1 ng-click="vm.scrollTo('project-jump')" style="cursor:pointer">Projects</h1>
 <br>
 <br>
 <br>
