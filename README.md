@@ -1,16 +1,11 @@
 ## Title
 
-### Place 1
+<h1 ng-click="vm.scrollTo('project-jump')">Projects</h1>
 
-Hello, this is some text to fill in this, [here](vm.scrollTo('place-4')), is a link to the second place.
 
-### Place 2
 
-Place one has the fun times of linking here, but I can also link back [here](#place-1).
 
-### Place's 3: other example
 
-Place one has the fun times of linking here, but I can also link back [here](#places-3-other-example).
 
 
 
@@ -73,9 +68,4 @@ Place one has the fun times of linking here, but I can also link back [here](#pl
 
 
 
-
-
-
-
-
-### Place 4
+<h4 id="project-jump">Project Jump</h4>
