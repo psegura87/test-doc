@@ -1,5 +1,3 @@
-## Title
-
 <button ng-click="vm.scrollTo('project-jump')">Projects</button>
 <br>
 <br>
